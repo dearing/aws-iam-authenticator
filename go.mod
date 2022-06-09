@@ -1,4 +1,4 @@
-module sigs.k8s.io/aws-iam-authenticator
+module github.com/dearing/aws-iam-authenticator
 
 go 1.16
 
